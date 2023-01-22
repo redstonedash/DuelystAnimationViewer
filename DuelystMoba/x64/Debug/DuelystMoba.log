@@ -1,5 +1,0 @@
-﻿  Main.cpp
-C:\Users\redstonedash\source\repos\DuelystMoba\DuelystMoba\Main.cpp(15,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\redstonedash\source\repos\DuelystMoba\DuelystMoba\Main.cpp(68,37): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  DuelystMoba.vcxproj -> C:\Users\redstonedash\source\repos\DuelystMoba\x64\Debug\DuelystMoba.exe

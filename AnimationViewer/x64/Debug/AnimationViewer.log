@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DuelystMoba.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\redstonedash\Documents\GitHub\DuelystAnimationViewer\AnimationViewer\Main.cpp(15,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\redstonedash\Documents\GitHub\DuelystAnimationViewer\AnimationViewer\Main.cpp(68,37): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" exited with code 1104.
+LINK : fatal error LNK1104: cannot open file 'raylib.lib'

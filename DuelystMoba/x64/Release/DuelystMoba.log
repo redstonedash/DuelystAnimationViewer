@@ -1,9 +1,0 @@
-﻿  Main.cpp
-C:\Users\redstonedash\source\repos\DuelystMoba\DuelystMoba\Main.cpp(15,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\redstonedash\source\repos\DuelystMoba\DuelystMoba\Main.cpp(68,37): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-  Generating code
-  0 of 1017 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  DuelystMoba.vcxproj -> C:\Users\redstonedash\source\repos\DuelystMoba\x64\Release\DuelystMoba.exe
